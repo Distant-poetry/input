@@ -8,3 +8,11 @@ return position(s,di,bi)
 key end c bit
 configparser or ini S gb kjnjj
 jons in pass load() or loads()
+Serial.println(Filter_Value);
+Filter_Value = Filter ();
+i = 0; i< FILTER_N;
+i++ {filter_buf[i] = Get_AD();   #采样值从小到大排列（冒泡法）
+delay(1);
+E、整理: shenhaiyu 2013-11-01
+*/ int Filter_Value;
+int Get_AD(){ return random (295,305):
