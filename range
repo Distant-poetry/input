@@ -21,4 +21,9 @@ def quick(data,start,end): #定义一个快速排序法函数
   quick(data,start,i-1)
   quick(data,i + 1,end)
   food = {'物品' :137970,'独卫'3829107 '阁行'632 1.8 7 '幕举'354354354 660667
-
+>>> to\to\to 
+>>> or\or\ro
+true
+true
+False
+False  5-23
